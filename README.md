@@ -3,4 +3,5 @@ Embark on a testing journey with my latest LinkedIn article! 🚀 As an early-ca
 Bonus: Dive into the article to access the source code for a hands-on experience, and I've attached the comprehensive test cases document for your team's reference. Let's elevate quality together! Read more for an inside look. #WebAutomation #Cypress #Ecommerce #Testing #Innovation #qualityassurancetraining 
 
 Test Cases  : https://docs.google.com/spreadsheets/d/1xzFLKoPHINJhGYFArf412YQas0Z9LEo2eUml8MNrcKg/edit?usp=sharing# Cypress-
+
 Video        : https://www.youtube.com/watch?v=HhnrEca18T0
